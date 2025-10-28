@@ -7,3 +7,4 @@ pillow
 pdf2image
 PyMuPDF
 python-multipart
+packaging
